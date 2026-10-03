@@ -1,26 +1,24 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kaushal+Vishwakarma+%F0%9F%91%8B;BTech+CSE+Student+%F0%9F%92%BB;Learning+DSA+%26+Software+Development+%F0%9F%A7%A0;Building+Projects+%26+Learning+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+# 👋 Hi, I'm Kaushal Vishwakarma
 
-<p align="center">
-  <strong>BTech CSE Student • Aspiring Software Developer • Problem Solver</strong>
-</p>
+### 💻 BTech CSE Student | Full-Stack Developer in Progress | Problem Solver
 
-<p align="center">
+<p>
   <a href="https://github.com/kaushal-vishwakarma">
-    <img src="https://komarev.com/ghpvc/?username=kaushal-vishwakarma&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=kaushal-vishwakarma&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   </a>
   <a href="https://github.com/kaushal-vishwakarma?tab=followers">
-    <img src="https://img.shields.io/github/followers/kaushal-vishwakarma?label=Followers&style=flat-square&color=0e75b6" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/kaushal-vishwakarma?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
   </a>
 </p>
 
-<p align="center">
+<p>
   <a href="mailto:kaushalrohai8888@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/kaushal-vishwakarma-ab17a8376/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -30,26 +28,23 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Kaushal Vishwakarma**, a **BTech Computer Science & Engineering student** passionate about programming, software development, and continuous learning.
+I'm **Kaushal Vishwakarma**, a Computer Science Engineering student who enjoys building projects, solving programming problems, and continuously improving my technical skills.
 
-I enjoy turning ideas into projects, solving programming problems, and exploring new technologies.
+🎓 Currently pursuing **BTech in Computer Science & Engineering**
+💻 Interested in **Web Development, Full-Stack Development & Software Engineering**
+🐍 Working with **Python & C** and learning modern web technologies
+⚛️ Exploring **React, JavaScript and backend development**
+🧠 Practicing **Data Structures & Algorithms**
+🚀 Building projects to turn ideas into practical applications
+📚 Currently focused on improving my **coding, problem-solving and development skills**
 
-* 🎓 Pursuing **BTech in Computer Science & Engineering**
-* 💻 Currently working with **Python & C**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🌐 Learning **JavaScript, React & Web Development**
-* 🚀 Exploring **Backend & Full-Stack Development**
-* 🔧 Building projects to strengthen practical skills
-* 📚 Preparing for **software engineering internships & placements**
-* 🌱 Always learning something new
-
-> **"Learn. Build. Debug. Improve. Repeat."**
+> 💡 **My goal:** Learn by building, improve every day, and become a strong software developer.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,python,javascript" />
@@ -58,7 +53,13 @@ I enjoy turning ideas into projects, solving programming problems, and exploring
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" />
+</p>
+
+### 🗄️ Database & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgresql,mongodb" />
 </p>
 
 ### 🔧 Tools & Technologies
@@ -67,57 +68,37 @@ I enjoy turning ideas into projects, solving programming problems, and exploring
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino" />
 </p>
 
-### 📚 Currently Learning
-
-```text
-DSA                  █████████░░  Improving
-JavaScript           ███████░░░░  Learning
-React                ██████░░░░░  Learning
-Backend Development  ████░░░░░░░  Exploring
-Databases            ████░░░░░░░  Exploring
-Full-Stack            ███░░░░░░░░  Exploring
-```
+> 📌 Technologies marked above represent technologies I have worked with, explored, or am currently learning.
 
 ---
 
 # 🚀 Featured Projects
 
-### 🖨️ PrintX — Smart 24/7 Automated Printing Kiosk
+<div align="center">
 
-A project concept designed to make document printing faster and more convenient through an automated printing kiosk.
+<a href="https://github.com/kaushal-vishwakarma/data-structure-lab">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaushal-vishwakarma&repo=data-structure-lab&theme=tokyonight&hide_border=true" />
+</a>
 
-**Explored Stack**
+<a href="https://github.com/kaushal-vishwakarma/My-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaushal-vishwakarma&repo=My-portfolio&theme=tokyonight&hide_border=true" />
+</a>
 
-`React` `Node.js` `Express` `PostgreSQL` `Prisma` `JWT` `Socket.IO`
+</div>
 
-🔗 **Repository:**
-https://github.com/kaushal-vishwakarma
+### 🖨️ PrintX — Smart Printing Kiosk
 
----
+A project concept focused on making printing more convenient through a smart automated printing kiosk.
+
+**Planned / explored technologies:**
+
+`React` • `Node.js` • `Express` • `PostgreSQL` • `Prisma` • `JWT` • `Socket.IO`
 
 ### 🌐 My Portfolio
 
-A personal portfolio website showcasing my projects, skills, development journey, and learning progress.
+A personal portfolio website showcasing my projects, skills, learning journey and development work.
 
-**Technologies**
-
-`HTML` `CSS` `JavaScript`
-
-🔗 **Repository:**
-https://github.com/kaushal-vishwakarma/My-portfolio
-
----
-
-### 📊 Data Structure Lab
-
-A collection of programming and data-structure implementations created while learning and practicing programming concepts.
-
-**Focus**
-
-`C` `Python` `Data Structures` `Algorithms`
-
-🔗 **Repository:**
-https://github.com/kaushal-vishwakarma/data-structure-lab
+👉 **[View My Portfolio](https://github.com/kaushal-vishwakarma/My-portfolio)**
 
 ---
 
@@ -125,15 +106,15 @@ https://github.com/kaushal-vishwakarma/data-structure-lab
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kaushal-vishwakarma&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaushal-vishwakarma&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal-vishwakarma&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushal-vishwakarma&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -147,7 +128,17 @@ https://github.com/kaushal-vishwakarma/data-structure-lab
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushal-vishwakarma&theme=tokyo-night&hide_border=true&area=true&custom_title=Kaushal's%20Contribution%20Graph" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushal-vishwakarma&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+
+</div>
+
+---
+
+# 📅 GitHub Contribution Graph
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/0e75b6/kaushal-vishwakarma" alt="Kaushal Vishwakarma GitHub Contribution Graph"/>
 
 </div>
 
@@ -157,88 +148,75 @@ https://github.com/kaushal-vishwakarma/data-structure-lab
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kaushal-vishwakarma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kaushal-vishwakarma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
 
 </div>
+
+---
+
+# 📌 GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaushal-vishwakarma&theme=tokyonight" alt="GitHub Profile Details"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaushal-vishwakarma&theme=tokyonight" alt="Repositories per Language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaushal-vishwakarma&theme=tokyonight" alt="Most Commit Language"/>
+
+</div>
+
+---
+
+# 💡 What I'm Currently Learning
+
+```text
+📌 Data Structures & Algorithms
+📌 JavaScript
+📌 React.js
+📌 Backend Development
+📌 Database Management
+📌 Full-Stack Development
+📌 Problem Solving
+📌 Git & GitHub
+```
 
 ---
 
 # 🎯 2026 Goals
 
-* [ ] Strengthen **Data Structures & Algorithms**
-* [ ] Improve **problem-solving skills**
-* [ ] Build strong **JavaScript & React** projects
-* [ ] Learn **backend development**
-* [ ] Build and deploy **full-stack applications**
-* [ ] Contribute to **open-source projects**
-* [ ] Improve **Git & GitHub workflow**
-* [ ] Prepare for **software engineering internships & placements**
+* [ ] Improve Data Structures & Algorithms
+* [ ] Build production-level web applications
+* [ ] Strengthen JavaScript & React skills
+* [ ] Learn backend development deeply
+* [ ] Build and deploy full-stack projects
+* [ ] Contribute to open-source projects
+* [ ] Improve problem-solving skills
+* [ ] Prepare for software engineering placements
 
 ---
 
-# 🧠 My Development Journey
-
-<div align="center">
+# 📚 My Development Journey
 
 ```text
-        ┌──────────────┐
-        │    LEARN     │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   PRACTICE   │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │    BUILD     │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │    DEBUG     │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   IMPROVE    │
-        └──────┬───────┘
-               ↓
-              🔁
+Learn
+  ↓
+Practice
+  ↓
+Build
+  ↓
+Debug
+  ↓
+Improve
+  ↓
+Repeat 🔁
 ```
 
-</div>
-
----
-
-# 📌 Current Focus
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 Coding
-
-* C Programming
-* Python
-* JavaScript
-* Data Structures
-* Algorithms
-* Problem Solving
-
-</td>
-
-<td width="50%">
-
-### 🚀 Development
-
-* HTML & CSS
-* React
-* Git & GitHub
-* Web Development
-* Backend Development
-* Full-Stack Development
-
-</td>
-</tr>
-</table>
+> 🚀 **Small progress every day becomes big progress over time.**
 
 ---
 
@@ -247,19 +225,19 @@ https://github.com/kaushal-vishwakarma/data-structure-lab
 <div align="center">
 
 <a href="mailto:kaushalrohai8888@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kaushal-vishwakarma-ab17a8376/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Kaushal%20Vishwakarma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/kaushal_84097/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-@kaushal__84097-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://github.com/kaushal-vishwakarma">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-kaushal--vishwakarma-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -268,10 +246,9 @@ https://github.com/kaushal-vishwakarma/data-structure-lab
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Grow+%F0%9F%9A%80;One+step+closer+every+day+%F0%9F%92%BB;Keep+learning.+Keep+building.+%F0%9F%94%A5" alt="Footer Animation" />
-
-<br>
+### 💻 Code. Learn. Build. Repeat. 🚀
 
 ⭐ **Thanks for visiting my profile!**
 
 </div>
+adding a animation and create a more professional
